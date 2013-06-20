@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <class id="1">
+    <node id="11">
+      <name>语文</name>
+      <time>8:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="12">
+      <name>语文</name>
+      <time>10:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="13">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="14">
+      <name>语文</name>
+      <time>16:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="15">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+  <class id="2">
+    <node id="21">
+      <name>外语</name>
+      <time>8:00</time>
+      <teacher>王晓燕</teacher>
+      <room>14#106</room>
+      <describle>我喜欢这门课程，虽然我不会。</describle>
+    </node>
+    <node id="22">
+      <name>嵌入式</name>
+      <time>10:00</time>
+      <teacher>韩噗</teacher>
+      <room>14#206</room>
+      <describle>好好学习，天天向上</describle>
+    </node>
+    <node id="23">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="24">
+      <name>数学</name>
+      <time>16:00</time>
+      <teacher>费玉清</teacher>
+      <room>14#306</room>
+      <describle>数学，好好学习，天天向上</describle>
+    </node>
+    <node id="25">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+  <class id="3">
+    <node id="31">
+      <name>语文</name>
+      <time>8:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="32">
+      <name>语文</name>
+      <time>10:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="33">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="34">
+      <name>语文</name>
+      <time>16:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="35">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+  <class id="4">
+    <node id="41">
+      <name>外语</name>
+      <time>8:00</time>
+      <teacher>王晓艳</teacher>
+      <room>14#302</room>
+      <describle>这节课老师要布置作业</describle>
+    </node>
+    <node id="42">
+      <name>形势与政策</name>
+      <time>10:00</time>
+      <teacher>胡晓杰</teacher>
+      <room>14#106</room>
+      <describle>1</describle>
+    </node>
+    <node id="43">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="44">
+      <name>数学</name>
+      <time>16:00</time>
+      <teacher>费玉清</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="45">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+  <class id="5">
+    <node id="51">
+      <name>语文</name>
+      <time>8:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="52">
+      <name>语文</name>
+      <time>10:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="53">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="54">
+      <name>语文</name>
+      <time>16:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="55">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+  <class id="6">
+    <node id="61">
+      <name>ARM</name>
+      <time>8:00</time>
+      <teacher>曹磊</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="62">
+      <name>嵌入式</name>
+      <time>10:00</time>
+      <teacher>韩噗</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="63">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="64">
+      <name>语文</name>
+      <time>16:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="65">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+  <class id="7">
+    <node id="71">
+      <name>语文</name>
+      <time>8:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="72">
+      <name>语文</name>
+      <time>10:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="73">
+      <name>语文</name>
+      <time>14:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="74">
+      <name>语文</name>
+      <time>16:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+    <node id="75">
+      <name>语文</name>
+      <time>20:00</time>
+      <teacher>王玉凤</teacher>
+      <room>14#210</room>
+      <describle>1</describle>
+    </node>
+  </class>
+</root>

@@ -1,0 +1,53 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="scheduleApp.SettingInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="我的应用程序" Foreground="GreenYellow" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="48,60,0,0" Name="textBlock1" Text="课程" VerticalAlignment="Top" Width="50" />
+            <TextBox  Height="72" HorizontalAlignment="Left" Margin="104,35,0,0" Name="className" Text="TextBox" VerticalAlignment="Top" Width="323" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="48,134,0,0" Name="textBlock2" Text="时间" VerticalAlignment="Top" Width="50" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="104,113,0,0" Name="classTime" Text="8:00" VerticalAlignment="Top" Width="323" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="48,217,0,0" Name="textBlock3" Text="教师" VerticalAlignment="Top" Width="50" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="104,191,0,0" Name="classTeacher" Text="TextBox" VerticalAlignment="Top" Width="323" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="48,291,0,0" Name="textBlock4" Text="教室" VerticalAlignment="Top" Width="50" />
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="104,269,0,0" Name="classRoom" Text="TextBox" VerticalAlignment="Top" Width="323" />
+            <Button Content="保存" Height="72" HorizontalAlignment="Left" Margin="147,548,0,0" Name="button1" VerticalAlignment="Top" Width="160" Click="button1_Click" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="48,363,0,0" Name="textBlock5" Text="描述" VerticalAlignment="Top" Width="50" />
+            <TextBox Height="183" HorizontalAlignment="Left" Margin="104,347,0,0" Name="classDescrible" Text="TextBox" VerticalAlignment="Top" Width="323" TextWrapping="Wrap" />
+        </Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/scheduleApp;component/settingBackground.png" />
+        </Grid.Background>
+    </Grid>
+ 
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" Mode="Default" BackgroundColor="Black" ForegroundColor="White" >
+            <shell:ApplicationBarIconButton  x:Name="appbar_btnExit"   IconUri="Image/appbar_button.png" Click="appbar_btnExit_Click" Text="返回"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
