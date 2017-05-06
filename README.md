@@ -13,15 +13,15 @@
 
 ## 软件效果
 
-![软件安装完成图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_1.png "软件安装完成图")
-![启动图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_2.png "启动图")
-![今日课程图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_11.png "今日课程图")
-![今日课程滚动效果图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_4.png "今日课程滚动效果图")
-![周课程图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_10.png "周课程图")
-![周课滚动效果程图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_8.png "周课滚动效果程图")
-![周课滚动效果程图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_5.png "周课滚动效果程图")
-![周课课程设置图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_9.png "周课课程设置图")
-![定时提醒图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_6.png "定时提醒图")
-![关于图](https://github.com/mjrao/timetables4wp/blob/master/screenshots/wp_7.png "关于图")
+![软件安装完成图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_1.png "软件安装完成图")
+![启动图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_2.png "启动图")
+![今日课程图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_11.png "今日课程图")
+![今日课程滚动效果图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_4.png "今日课程滚动效果图")
+![周课程图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_10.png "周课程图")
+![周课滚动效果程图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_8.png "周课滚动效果程图")
+![周课滚动效果程图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_5.png "周课滚动效果程图")
+![周课课程设置图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_9.png "周课课程设置图")
+![定时提醒图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_6.png "定时提醒图")
+![关于图](https://github.com/mjrao/timetables4wp/blob/master/scheduleApp/screenshots/wp_7.png "关于图")
 
 
